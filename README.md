@@ -1,7 +1,7 @@
 # Sales-Trend-Analysis-Using-Aggregations-Task-6
 Sales trend analysis using SQL to compute monthly revenue and order volume from an e-commerce orders dataset.
 
-![image]()
+![image](https://github.com/user-attachments/assets/76d3f1d9-0c29-46b0-a399-a4497ad88bc4)
 
 ---
 
